@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Minecraft-Regular";
+    src: url('./fonts/1_Minecraft-Regular.otf');
+}
+
+#d1 {
+    font: Minecraft-Regular;
+    position: absolute;
+    color: #fff; 
+}
